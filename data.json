@@ -1,0 +1,259 @@
+{
+  "categories": [
+    { "id": "all", "name": "All", "icon": "🥗" },
+    { "id": "breakfast", "name": "Breakfast", "icon": "🍳" },
+    { "id": "lunch", "name": "Lunch", "icon": "🥙" },
+    { "id": "dinner", "name": "Dinner", "icon": "🍲" },
+    { "id": "snacks", "name": "Snacks", "icon": "🥕" }
+  ],
+  "cocktails": [
+    {
+      "id": "1",
+      "title": "Vegan Pancakes",
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1587730934284-9c2a2b8f8d3c?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Plate",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1 tbsp sugar",
+        "1 tbsp baking powder",
+        "1 cup almond milk",
+        "1 tbsp vegetable oil",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Mix dry ingredients in a bowl",
+        "Add almond milk, oil, and vanilla",
+        "Whisk until smooth",
+        "Cook pancakes on a hot pan until golden"
+      ],
+      "garnish": "Fresh berries and maple syrup",
+      "premium": false
+    },
+    {
+      "id": "2",
+      "title": "Green Smoothie Bowl",
+      "category": "breakfast",
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Bowl",
+      "ingredients": [
+        "1 frozen banana",
+        "1 cup spinach",
+        "1/2 cup mango",
+        "1 cup oat milk",
+        "1 tbsp chia seeds"
+      ],
+      "steps": [
+        "Blend all ingredients until thick",
+        "Pour into a bowl",
+        "Top with fruit and seeds"
+      ],
+      "garnish": "Granola and coconut flakes",
+      "premium": false
+    },
+    {
+      "id": "3",
+      "title": "Chickpea Avocado Wrap",
+      "category": "lunch",
+      "image": "https://images.unsplash.com/photo-1523987355523-c7b5b84a3b1a?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Wrap",
+      "ingredients": [
+        "1 cup cooked chickpeas",
+        "1 ripe avocado",
+        "1 tbsp lemon juice",
+        "Salt and pepper",
+        "Whole wheat wraps"
+      ],
+      "steps": [
+        "Mash chickpeas and avocado",
+        "Season with lemon, salt, and pepper",
+        "Spread mixture on wrap",
+        "Roll and serve"
+      ],
+      "garnish": "Lettuce and tomato slices",
+      "premium": false
+    },
+    {
+      "id": "4",
+      "title": "Vegan Buddha Bowl",
+      "category": "lunch",
+      "image": "https://images.unsplash.com/photo-1546069901-eacef0df6022?w=800",
+      "prepTime": 20,
+      "difficulty": "Medium",
+      "alcoholContent": "None",
+      "glassType": "Bowl",
+      "ingredients": [
+        "1 cup cooked quinoa",
+        "1/2 cup roasted sweet potato",
+        "1/2 cup chickpeas",
+        "1/2 avocado, sliced",
+        "Tahini dressing"
+      ],
+      "steps": [
+        "Arrange quinoa in a bowl",
+        "Add roasted vegetables and chickpeas",
+        "Top with avocado",
+        "Drizzle with tahini dressing"
+      ],
+      "garnish": "Sesame seeds",
+      "premium": true
+    },
+    {
+      "id": "5",
+      "title": "Vegan Lentil Soup",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1543352634-16e33c2b2c6c?w=800",
+      "prepTime": 30,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Bowl",
+      "ingredients": [
+        "1 cup lentils",
+        "1 onion, chopped",
+        "2 cloves garlic",
+        "2 carrots, diced",
+        "4 cups vegetable broth"
+      ],
+      "steps": [
+        "Sauté onion and garlic",
+        "Add carrots and lentils",
+        "Pour in broth and simmer 25 minutes",
+        "Season to taste"
+      ],
+      "garnish": "Fresh parsley",
+      "premium": false
+    },
+    {
+      "id": "6",
+      "title": "Tofu Stir-Fry",
+      "category": "dinner",
+      "image": "https://images.unsplash.com/photo-1604908177522-3d0f5a5b7a7c?w=800",
+      "prepTime": 25,
+      "difficulty": "Medium",
+      "alcoholContent": "None",
+      "glassType": "Plate",
+      "ingredients": [
+        "200g firm tofu, cubed",
+        "1 bell pepper, sliced",
+        "1 cup broccoli florets",
+        "2 tbsp soy sauce",
+        "1 tsp sesame oil"
+      ],
+      "steps": [
+        "Pan-fry tofu until golden",
+        "Add vegetables and stir-fry",
+        "Add soy sauce and sesame oil",
+        "Cook until veggies are tender-crisp"
+      ],
+      "garnish": "Sesame seeds and green onions",
+      "premium": true
+    },
+    {
+      "id": "7",
+      "title": "Hummus & Veggie Plate",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=800",
+      "prepTime": 10,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Plate",
+      "ingredients": [
+        "1 cup hummus",
+        "Carrot sticks",
+        "Cucumber slices",
+        "Bell pepper strips",
+        "Olives"
+      ],
+      "steps": [
+        "Arrange veggies on a plate",
+        "Add hummus in the center",
+        "Serve fresh"
+      ],
+      "garnish": "Olive oil drizzle and paprika",
+      "premium": false
+    },
+    {
+      "id": "8",
+      "title": "Roasted Chickpeas",
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1594759215933-784b0b3b7b7c?w=800",
+      "prepTime": 20,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Bowl",
+      "ingredients": [
+        "1 can chickpeas, drained",
+        "1 tbsp olive oil",
+        "1 tsp paprika",
+        "1/2 tsp garlic powder",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Toss chickpeas with oil and spices",
+        "Roast at 200°C for 20 minutes",
+        "Cool until crunchy"
+      ],
+      "garnish": "Extra paprika",
+      "premium": false
+    },
+    {
+      "id": "9",
+      "title": "Vegan Chocolate Mousse",
+      "category": "dessert",
+      "image": "https://images.unsplash.com/photo-1601972599720-7a40b0bce0b1?w=800",
+      "prepTime": 15,
+      "difficulty": "Easy",
+      "alcoholContent": "None",
+      "glassType": "Cup",
+      "ingredients": [
+        "1 ripe avocado",
+        "2 tbsp cocoa powder",
+        "2 tbsp maple syrup",
+        "1 tsp vanilla extract",
+        "Pinch of salt"
+      ],
+      "steps": [
+        "Blend all ingredients until smooth",
+        "Chill for 30 minutes",
+        "Serve cold"
+      ],
+      "garnish": "Cocoa nibs and berries",
+      "premium": true
+    },
+    {
+      "id": "10",
+      "title": "Vegan Banana Bread",
+      "category": "dessert",
+      "image": "https://images.unsplash.com/photo-1606312618474-9c65b4b7f1f0?w=800",
+      "prepTime": 60,
+      "difficulty": "Medium",
+      "alcoholContent": "None",
+      "glassType": "Slice",
+      "ingredients": [
+        "2 ripe bananas, mashed",
+        "1/3 cup coconut oil",
+        "1/2 cup brown sugar",
+        "1 1/2 cups flour",
+        "1 tsp baking soda"
+      ],
+      "steps": [
+        "Mix wet ingredients",
+        "Add dry ingredients and stir",
+        "Bake at 180°C for 45–50 minutes",
+        "Cool before slicing"
+      ],
+      "garnish": "Walnuts on top",
+      "premium": true
+    }
+  ]
+}
+```
